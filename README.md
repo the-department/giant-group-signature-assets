@@ -1,7 +1,4 @@
 # gg613-giant-mandurah-email-signatures
-GG613 Giant Mandurah Email Signatures
-<<<<<<< HEAD
-Notes
-What the
-=======
->>>>>>> a74d5b92e0a914f7bd3b25662242c03e74d835f0
+GG613 Giant Mandurah Email Signatures  
+  
+Note: Mark down file, use 2x spaces then ENTER to wrap to new line.
